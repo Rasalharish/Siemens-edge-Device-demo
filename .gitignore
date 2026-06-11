@@ -1,0 +1,10 @@
+# Exclude large video files (hosted on Google Drive instead)
+*.mp4
+*.avi
+*.mov
+*.mkv
+
+# Exclude system files
+Thumbs.db
+.DS_Store
+desktop.ini
